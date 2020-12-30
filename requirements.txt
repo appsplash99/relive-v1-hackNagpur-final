@@ -1,0 +1,17 @@
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+decorator==4.4.2
+Flask==1.1.2
+future==0.18.2
+geocoder==1.38.1
+idna==2.10
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+python-google-places==1.4.2
+ratelim==0.1.6
+requests==2.25.1
+six==1.15.0
+urllib3==1.26.2
+Werkzeug==1.0.1

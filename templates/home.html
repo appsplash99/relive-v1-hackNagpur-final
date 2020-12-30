@@ -1,0 +1,85 @@
+{% extends 'layout.html' %} {% block body %}
+<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+
+  <div class="col-md-5 p-lg-5 mx-auto">
+    <div class="hero__img">
+      <img src="/static/heart.png" alt="" class="img-fluid img-responsive" alt="Responsive image"
+        style="width: 250px; height:250px;">
+      <div>{{ final_data }}</div>
+    </div>
+    <h1 class="display-4 fw-normal">ReLive</h1>
+    <p class="lead fw-normal">Instantly Connect with nearest Hospitals.</p>
+
+  </div>
+
+  <div class="col-md-5 p-lg-5 mx-auto my-5">
+    <h1 class="display-4 fw-normal">Is Your Health Condition Serious?</h1>
+    <p class="lead fw-normal">Don't worry we'll connect you to your nearest medical care centre available.</p>
+    <a href="/show_data" target="_blank"><button class="button">fetch Nearest hospitals</button></a>
+  </div>
+</div>
+<p></p>
+<div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
+  <div class="flex-fill bg-dark me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
+    <div class="my-3 py-3">
+      <h2 class="display-5">Another headline</h2>
+      <p class="lead">And an even wittier subheading.</p>
+      <div class="contain">
+        <img src="static/doctor.png" alt="Doctor" class="image">
+        <div class="overlay">
+          <div class="text">We are always here for your ...!? aaa... whatever</div>
+        </div>
+      </div>
+      <br><br><br><br>
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <h1>Sugar level</h1>
+          </div>
+          <div class="flip-card-back">
+            <p>Info about Sugar</p>
+            <h4>Your sugar level should be 60–90mg/dl before meal and 100–120mg/dl after meal...</h4>
+          </div>
+        </div>
+      </div>
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <h1>Blood Pressure</h1>
+          </div>
+          <div class="flip-card-back">
+            <p>Info about Blood Pressure.</p>
+            <h4>Your Blood pressure should be in 80 to 120mm of Hg.....</h4>
+          </div>
+        </div>
+      </div>
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <h1>Breathing rate</h1>
+          </div>
+          <div class="flip-card-back">
+            <p>Info about Breathing rate</p>
+            <h4> Normal respiration rate ranges from 12 to 16 breaths per minute....</h4>
+          </div>
+        </div>
+      </div>
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <h1>Body Temperature</h1>
+          </div>
+          <div class="flip-card-back">
+            <p>Info about Body temperature</p>
+            <h4>Your body temperature should be less than 98.6°F.</h4>
+            <h4>If it is greater 98.6°F then you should consult a doctor.....</h4>
+          </div>
+        </div>
+      </div>
+      <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
+    </div>
+  </div>
+
+  </main>
+
+  {% endblock %}

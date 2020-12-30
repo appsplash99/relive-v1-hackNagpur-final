@@ -1,0 +1,33 @@
+<!-- inheriting all html from layout.html page -->
+{% extends 'layout.html' %}
+
+<!-- body Content of this page  -->
+{% block body %}
+
+<!-- Begin page content -->
+<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+
+  <main class="flex-shrink-0 mt-5">
+    <div class="container">
+      <h1>About Us</h1>
+      <h3>Contact us if you find our work ...</h3>
+
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt eos quaerat possimus qui delectus, omnis iure
+        quis tempore
+        reprehenderit? Obcaecati incidunt placeat iusto porro aliquam cumque est neque doloremque voluptas!</p>
+      <div class="chip">
+        <img src="static/blueAmong.jpg" alt="Person" width="96" height="96">Apurv Chimralwar
+      </div>
+      <div class="chip">
+        <img src="static/yellowAmong.jpg" alt="Person" width="96" height="96">Niharika Guruwara
+      </div>
+      <div class="chip">
+        <img src="static/redAmong.jpg" alt="Person" width="96" height="96">Kunal Vasudevan
+      </div>
+      <div class="chip">
+        <img src="static/purpleAmong.png" alt="Person" width="96" height="96">Pankaj
+      </div>
+    </div>
+</div>
+</main>
+{% endblock %}
