@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
-<img align="center" src="static/heart.png" alt="app" height="500px"/>
+<img align="center" src="static/heart.png" alt="app" height="200px"/>
 <h1 align="left"> PROJECT NAME: reLIVE</h1>
 <h3 align="left"> Instantly Connect with nearest Hospitals.</h3>
 
