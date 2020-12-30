@@ -3,7 +3,6 @@
 <img align="center" src="static/heart.png" alt="app" height="200px"/>
 <h1 align="left"> PROJECT NAME: reLIVE</h1>
 <h3 align="left"> Instantly Connect with nearest Hospitals.</h3>
-<br />
 <a href="https://relive-flask-app.herokuapp.com" target="blank">:rocket: Play It Here</a>
 <br /><br />
 
