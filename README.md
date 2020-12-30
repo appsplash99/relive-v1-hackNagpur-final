@@ -56,7 +56,7 @@ It is a web-app which will show you the lists of hospitals located near you so t
 We got many problems in both frontend and backend, as in frontend we got problems in buttons and option box and in backend we got problems in fetching the nearest locations of hospital and opening the dial pad in the phone and also fetching the hospitals details in near by area. We also faced problems in the storing in the database.
 
 
-**TECHNOLOGY WE USED IN IT:**
+**TECHNOLOGIES USED:**
 
 - Frontend
   -  HTML
