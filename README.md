@@ -1,9 +1,7 @@
 <!-- PROJECT LOGO -->
-<br />
-<img align="center" src="static/heart.png" alt="app" height="200px"/>
 <h1 align="left"> PROJECT NAME: reLIVE</h1>
 <h3 align="left"> Instantly Connect with nearest Hospitals.</h3>
-<a href="https://relive-flask-app.herokuapp.com" target="blank">:rocket: Play It Here</a>
+<a href="https://relive-flask-app.herokuapp.com" target="_blank">:rocket: Play It Here</a>
 <br /><br />
 
 
@@ -15,7 +13,9 @@
 4. Pankaj Kumar
 
 
-**PROBLEM STATEMNENT**
+**ABOUT THE PROJECT**
+<br />
+<img align="center" src="static/heart.png" alt="app" height="200px"/>
 
 Now days there are many accedient happening now days for that we need to do something so our team had decided to make an app which will fetch the nearest hospital around you and give you the phone number of that hospital and other details of it . If there are like extream condition it will open an dial pad in your phone of the nearest hospital which will help in emergency situation or in pandamic once.  
 
