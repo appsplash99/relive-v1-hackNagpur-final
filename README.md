@@ -11,7 +11,7 @@
 **Made with :heart: by Team:**
 
 1. Kunal Vasudevan
-2. Apurv Chimalvar
+2. Apurv Chimralwar
 3. Niharika Guruwara
 4. Pankaj Kumar
 
