@@ -10,8 +10,8 @@
 
 **Made with :heart: by Team:**
 
-1. Kunal Vasudevan
-2. Apurv Chimralwar
+1. Apurv Chimralwar
+2. Kunal Vasudevan
 3. Niharika Guruwara
 4. Pankaj Kumar
 
